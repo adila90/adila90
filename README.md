@@ -1,57 +1,9 @@
-![GitHub Follow](https://img.shields.io/github/followers/drAdila.svg?style=social&label=Follow)
-![GitHub Star](https://img.shields.io/github/stars/drAdila?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FdrAdila&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+<h1 align="center">Hi 👋, I'm Adila Firdaus Binti Arbain</h1>
+<h3 align="center">A passionate Software Engineer Lecturer</h3>
 
-
-## Hi there! <img src="https://raw.githubusercontent.com/drAdila/drAdila/master/img/wave.gif" width="30">
-
-I am  __Adila__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
-
-## 📚 Courses
-- [Special Topic in Data Engineering](https://github.com/drAdila/special-topic-data-engineering)
-  -   [Django](https://github.com/drAdila/learn-django)
-  -   [Alternative Assessment](https://github.com/drAdila/SECP3843)
-
-- [Software Engineering (WBL)](https://github.com/drAdila/software-engineering)
-- [Web Programming - PHP](https://github.com/drAdila/learn-php)
-- High Performance Data Processing 
-  -   [Python for beginners](https://github.com/drAdila/python-tutorial)
-  -   [Web scraping and Python web framework](https://github.com/drAdila/python-web)
-  -   [Exploratory data analysis](https://github.com/drAdila/Python_EDA)
-  -   [Big data processing](https://github.com/drAdila/Python-big-data)
-  -   [Case Study](https://github.com/drAdila/python-tutorial/blob/main/case-study.md)
-- [Programming Technique III: ASP.NET](https://github.com/drAdila/learn-aspnet)
-- [Extra-Curricular Experiential Learning](https://github.com/drAdila/courses/blob/main/UKQT3001/readme.md)
-- [Value and Identity](https://github.com/drAdila/courses/blob/main/ULRS1012/readme.md)
-
-## 👨‍💻 Anything to do with research
-- [The Daily Life of a PhD Student](https://github.com/drAdila/phd)
-- [Undergraduate projects](https://github.com/drAdila/undergraduate-project)
-- [Research Colloquium Series 1: Best practices' for using the cloud in research](https://github.com/drAdila/learn-github)
-- [Learn Github](https://github.com/drAdila/learn-github)
-- [Research Material](https://github.com/drAdila/research-material)
-  -   [Systematic Review: PRISMA 2020](https://github.com/drAdila/research-material/tree/main/SLR)
-  -   [myTOR](https://github.com/drAdila/myTOR)
-
-### 🙌🏻 Connect with Me
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://github.com/adila90" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drAdila-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/Adila" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-drAdila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drAdila/"></a>
-    <a href="mailto:adilafirdaus@utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-adilafirdaus@utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adilafirdaus@utm.my"></a>
-    <a href="https://www.researchgate.net/profile/Mohd-Othman-28" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
-    <a href="https://orcid.org/0000-0003-4261-1873" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
 </p>
-  
 
-<details>
-<summary>Click for GitHub Stats</summary>
-<p align="left">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=drAdila&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drAdila&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-</p>
-  
-  ![Follower Badge](https://img.shields.io/github/followers/drAdila)
-  ![](https://hit.yhype.me/github/profile?user_id=81284918)
- 
-</details>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://clojure.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="clojure" width="40" height="40"/> </a> <a href="https://offeescript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://www.erlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nim-lang/nim-lang-icon.svg" alt="nim" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>

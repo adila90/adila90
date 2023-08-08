@@ -35,9 +35,9 @@ I am  __Adila__, and I work as a lecturer at [Universiti Teknologi Malaysia](htt
 
 ### 🙌🏻 Connect with Me
 <p align="left">
-    <a href="https://github.com/drAdila" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drAdila-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/drAdila" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-drAdila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drAdila/"></a>
-    <a href="mailto:Adila@utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Adila@utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Adila@utm.my.com"></a>
+    <a href="https://github.com/adila90" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drAdila-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/Adila" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-drAdila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drAdila/"></a>
+    <a href="mailto:adilafirdaus@utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-adilafirdaus@utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adilafirdaus@utm.my"></a>
     <a href="https://www.researchgate.net/profile/Mohd-Othman-28" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
     <a href="https://orcid.org/0000-0003-4261-1873" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
 </p>
